@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
   The personal blog of Rintsen Sherpa, a bioinformatics PhD student at the University of Michigan.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://blog.rintsen.com"
+url: "https://blog.rintsen.com/"
 
 github:
   username: rnsherpa # change to your github username

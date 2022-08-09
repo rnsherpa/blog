@@ -1,5 +1,5 @@
 ## Personal blog of Rintsen Norbu Sherpa 
-### Powered by Jekyll with Chirpy[chirpy] theme.
+### Powered by Jekyll with [Chirpy][chirpy] theme.
 
 This work is published under [MIT][mit] License.
 
